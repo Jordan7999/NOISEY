@@ -1,0 +1,297 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: #EDE8E2
+	}
+
+#logo{
+	width: 100%;
+	height: 100px;
+	background: #B86B4D;
+	margin-bottom: -16px;
+}
+
+#logo img{
+	display: inline-block;
+	width: 10%;
+	margin-left: 45%;
+}
+
+#cabeza{
+	width: 100%;
+	height: 80px;
+	background: #80A057;
+	border-radius:  0 0 20px 20px;
+	margin: 0 auto;
+}
+
+#barra ul{
+	list-style: none;
+	text-align: center;
+	margin-left: -20px;
+}
+
+#barra ul li{
+	display: inline-block;
+	width: 220px;
+	height: 60px;
+	padding-top: 30px;
+	text-align: center;
+}
+
+#barra ul li a{
+	text-decoration: none;
+	font-family: arapey;
+	color: white;
+	font-size: 26px;
+	}
+
+#barra ul li a:hover{
+	color:#B86B4D;
+}
+
+.origen img {
+	width: 100%;
+	box-shadow: 0 0 10px 0 #070707
+}
+.informaciondos figcaption h5{
+	margin-top: 0px;
+	color: #38503A;
+	text-decoration: none;
+	font-family: montserrat;
+	text-align: center;
+	font-size: 35px;
+	word-spacing: 10px;
+	letter-spacing: 5px;
+	padding-top: 20px
+}
+
+.informaciondos{
+	background:#9ABDA7;
+	padding: 5px;
+	box-shadow: 0 0 10px 0 #070707;
+}
+#lugar{
+	width: 50%;
+	float: left;
+	margin-top: -15px;
+}
+
+#lugar p{
+	text-align: justify;
+	padding-left: 15px;
+	font-size: 20px;
+	color: #031D12;
+}
+
+#calido img{
+	margin-left: 5%
+	
+}
+
+.tipodos{
+	background: #80A057;
+	height: 660px;
+	box-shadow: 0 0 10px 0 #070707;
+	margin-bottom: 20px
+}
+.tipodos figcaption h5{
+	text-align: center;
+	text-decoration: none;
+	font-family: montserrat;
+	font-size: 35px;
+	word-spacing: 10px;
+	letter-spacing: 5px;
+	margin-bottom: 15px;
+	padding-top: 20px
+}
+
+#unodos{
+	width: 50%;
+	display: block;
+	float: left;	
+}
+#unodos h2{
+	text-align: center;
+	color: white;
+	font-family: arapey;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-shadow: 3px 3px 2px #39735B;
+}
+
+#unodos img{
+	width: 80%;
+	display: block;
+	margin-left: 10%;
+	border: solid #FFFFFF;
+	box-shadow: 3px 3px 2px  #39735B;
+
+}
+
+#unodos h5{
+	text-align: center;
+	font-family: montserrat;
+	color: #031D12;
+	margin: 15px;
+	
+	
+}
+
+#dosdos{
+	width: 49%;
+	display: block;
+	float: left;
+	border-left: solid;
+	border-left-width: 2px;
+	border-left-color: #39735B
+	
+}
+
+#dosdos h2{
+	text-align: center;
+	color: white;
+	font-family: arapey;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-shadow: 3px 3px 2px #39735B;
+}
+
+#dosdos img{
+	width: 55%;
+	height: 0%;
+	display: block;
+	margin-top: px;
+	margin-left: 20%;
+	border: solid #FFFFFF;
+	box-shadow: 3px 3px 2px  #39735B;
+}
+
+#dosdos h5{
+	text-align: center;
+	font-family: montserrat;
+	color: #031D12;
+	margin: 15px;
+}
+
+#tresdos{
+	width: 50%;
+	display: block;
+	float: left;	
+}
+#tresdos h2{
+	text-align: center;
+	color: white;
+	font-family: arapey;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-shadow: 3px 3px 2px #39735B;
+}
+
+#tresdos img{
+	width: 55%;
+	display: block;
+	margin-left: 20%;
+	border: solid #FFFFFF;
+	box-shadow: 3px 3px 2px  #39735B;
+}
+
+#tresdos h5{
+	text-align: center;
+	font-family: montserrat;
+	color: #031D12;
+	margin: 15px;
+	
+	
+}
+
+#cuatrodos{
+	width: 49%;
+	display: block;
+	float: left;
+	border-left: solid;
+	border-left-width: 2px;
+	border-left-color: #39735B
+	
+}
+
+#cuatrodos h2{
+	text-align: center;
+	color: white;
+	font-family: arapey;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-shadow: 3px 3px 2px #39735B;
+}
+
+#cuatrodos img{
+	width: 55%;
+	height: 0%;
+	display: block;
+	margin-top: px;
+	margin-left: 20%;
+	border: solid #FFFFFF;
+	box-shadow: 3px 3px 2px  #39735B;
+}
+
+#cuatrodos h5{
+	text-align: center;
+	font-family: montserrat;
+	color: #031D12;
+	margin: 15px;
+}
+
+#contacto{
+	background: #38503A;
+	box-shadow: 0 0 10px 0 #070707;
+}
+
+#contacto h3{
+	padding-top: 10px;
+	text-align: center;
+	font-family: arapey;
+	font-size: 30px;
+	color: white;
+}
+
+#contacto ul{
+	list-style: none;
+	text-align: center;
+	padding-bottom: 10px;
+	color: white;
+	font-size: 20px
+}
+
+#contacto ul li{
+	display: inline-block;
+}
+
+#footer{
+	background: #214738;
+	box-shadow: 0 0 10px 0 #070707;
+	height:  250px
+}
+
+#footer img{
+	display: inline-block;
+	width: 15%;
+	margin-left: 42%;
+	margin-bottom: -15px
+}
+
+#footer h4{
+	text-align: center;
+	color: white;
+	font-family: arapey;
+	font-size: 25px;
+	word-spacing: 5px;
+	margin-bottom: -15px
+}
+
+#footer h5{
+	text-align: center;
+	color: white;
+	font-family: arapey;
+	font-size: 15px;
+	word-spacing: 5px;
+}
