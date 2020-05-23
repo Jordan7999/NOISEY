@@ -1,0 +1,269 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper {
+	width: 1024px;
+	height: 1536px;
+	background-color: #EDEDDB; 
+	align-self: center;
+	
+}
+
+/*HEADER*/
+
+#wrapper header{
+	background-image: url("portada 2.jpg");
+	background-repeat: no-repeat;
+	width: 1024px;
+	height: 292px;	 
+}
+
+#wrapper header img{
+  position: absolute;
+ left: 446px;
+  top: 60px;
+}
+
+#barra{
+  position: absolute;
+  left: 205px;
+  top: 250px;
+  height: 24px;
+}
+
+#barra ul li{
+	display: inline-block;
+}
+
+#barra ul li a{
+  text-decoration: none;
+  font-size: 24px;
+  font-family: "Futura Bk BT";
+  color: rgb(255, 255, 255);
+  line-height: 1.125;
+	}
+#barra ul li a:hover{
+	color: #edcf66;
+}
+
+/*CONTENIDO*/
+
+h1{
+  font-size: 36px;
+  font-family: "Futura BdCn BT";
+  color: rgb(215, 105, 64);
+  font-weight: bold;
+  line-height: 0.75;
+  
+  position: absolute;
+  left: 243px;
+  top: 350px;
+  height: 34px;
+
+}
+
+#nuevos{
+	  position: absolute;
+  left: 33px;
+  top: 495px;
+  width: 940px;
+  height: 63px;
+}
+
+#lanzamientos{
+  position: absolute;
+  left: 33px;
+  top: 583px;
+  width: 938px;
+  height: 331px;
+}
+
+#uno img{
+	  position: absolute;
+  top: 20px;
+  width: 221px;
+  height: 221px;
+}
+
+#uno p{
+	 font-size: 22px;
+  font-family: "Futura Bk BT";
+  position: absolute;
+  left: 30px;
+  top: 256px;
+  text-align: center
+}
+
+#dos img{
+  position: absolute;
+  top: 20px;
+  left: 242px;
+  width: 221px;
+  height: 221px;
+
+
+}
+
+#dos p{
+  font-size: 22px;
+  font-family: "Futura Bk BT";
+  position: absolute;
+  left: 250px;
+  top: 256px;
+  text-align: center
+
+}
+
+#tres img{
+  position: absolute;
+  top: 20px;
+  left: 478px;
+  width: 221px;
+  height: 221px;
+
+
+}
+
+#tres p{
+  font-size: 22px;
+  font-family: "Futura Bk BT";
+  position: absolute;
+  left: 514px;
+  top: 256px;
+  text-align: center
+
+}
+
+#cuatro img{
+  position: absolute;
+  top: 20px;
+  left: 720px;
+  width: 221px;
+  height: 221px;
+
+
+}
+
+#cuatro p{
+  font-size: 22px;
+  font-family: "Futura Bk BT";
+  position: absolute;
+  left: 747px;
+  top: 256px;
+  text-align: center
+
+}
+
+#espanol{
+	 position: absolute;
+  left: 33px;
+  top: 961px;
+  width: 940px;
+  height: 63px;
+ 
+}
+
+#latino{
+	  position: absolute;
+  left: 33px;
+  top: 1044px;
+  width: 938px;
+  height: 331px;
+}
+
+#cinco img{
+	  position: absolute;
+  top: 20px;
+  width: 221px;
+  height: 221px;
+}
+
+#cinco p{
+	 font-size: 22px;
+  font-family: "Futura Bk BT";
+  position: absolute;
+  left: 0px;
+  top: 256px;
+  text-align: center
+}
+
+#seis img{
+  position: absolute;
+  top: 20px;
+  left: 242px;
+  width: 221px;
+  height: 221px;
+
+
+}
+
+#seis p{
+  font-size: 22px;
+  font-family: "Futura Bk BT";
+  position: absolute;
+  left: 290px;
+  top: 256px;
+  text-align: center
+
+}
+
+#siete img{
+  position: absolute;
+  top: 20px;
+  left: 478px;
+  width: 221px;
+  height: 221px;
+
+
+}
+
+#siete p{
+  font-size: 22px;
+  font-family: "Futura Bk BT";
+  position: absolute;
+  left: 555px;
+  top: 256px;
+  text-align: center
+
+}
+
+#ocho img{
+  position: absolute;
+  top: 20px;
+  left: 720px;
+  width: 221px;
+  height: 221px;
+
+
+}
+
+#ocho p{
+  font-size: 22px;
+  font-family: "Futura Bk BT";
+  position: absolute;
+  left: 755px;
+  top: 256px;
+  text-align: center
+
+}
+
+
+#footer{
+  background-color: rgb(153, 51, 0);
+  position: absolute;
+  top: 1436px;
+  width: 1024px;
+  height: 100px;
+}
+
+ #redes img{
+  position: absolute;
+  top: 33px;
+  left: 425px;
+}
+
+ #logo img{
+  position: absolute;
+  top: 12px;
+  left: 910px;
+}
